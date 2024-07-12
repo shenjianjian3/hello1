@@ -3,9 +3,8 @@ hello zju~ 1change
 hello zju~ hot fix 1
 hello zju~ master 1
 hello zju~
-hello zju~
-hello zju~ 
 hello zju~ conflict master
+hello zju~ conflict haha
 hello zju~
 hello zju~
 hot-fix 2
