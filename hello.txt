@@ -4,8 +4,8 @@ hello zju~ hot fix 1
 hello zju~ master 1
 hello zju~
 hello zju~
-hello zju~
-hello zju~
+hello zju~ 
+hello zju~ conflict master
 hello zju~
 hello zju~
 hot-fix 2
